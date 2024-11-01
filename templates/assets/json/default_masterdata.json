@@ -1,0 +1,461 @@
+{
+    "articlegroups":{
+       "articleGroups":[
+          {
+             "name":"Hauptgerichte",
+             "shortName":"Hauptgerichte",
+             "image":"default/meatdish.png",
+             "fixedAt":true,
+             "discountable":true,
+             "applyColorToArticles":false,
+             "applyImageToArticles":false,
+             "beverageTax":0,
+             "id":109,
+             "internalVat":{
+                "id":28,
+                "name":"8.0% MwSt."
+             },
+             "externalVat":{
+                "id":29,
+                "name":"2.5% MwSt."
+             },
+             "articleType":{
+                "id":1,
+                "name":"Standard"
+             },
+             "superGroup":{
+                "id":1,
+                "name":"HPT KÜCHE"
+             },
+             "parent":{
+                "id":1,
+                "name":"HPT KÜCHE"
+             },
+             "bonPrinters":[
+                {
+                   "id":12,
+                   "name":"Drucker Küche"
+                },
+                {
+                   "id":14,
+                   "name":"Küchen Monitor"
+                }
+             ]
+          },
+          {
+             "name":"HPT AUSLAGEN",
+             "shortName":"HPT AUSLAGEN",
+             "fixedAt":false,
+             "discountable":true,
+             "applyColorToArticles":false,
+             "applyImageToArticles":false,
+             "beverageTax":0,
+             "id":10,
+             "internalVat":{
+                "id":102,
+                "name":"0.0 MwSt"
+             },
+             "externalVat":{
+                "id":102,
+                "name":"0.0 MwSt"
+             },
+             "superGroup":{
+                "id":10,
+                "name":"HPT AUSLAGEN"
+             },
+             "bonPrinters":[
+ 
+             ]
+          },
+          {
+             "name":"HPT BIER",
+             "shortName":"HPT BIER",
+             "fixedAt":false,
+             "discountable":true,
+             "applyColorToArticles":false,
+             "applyImageToArticles":false,
+             "beverageTax":0,
+             "id":3,
+             "internalVat":{
+                "id":28,
+                "name":"8.0% MwSt."
+             },
+             "externalVat":{
+                "id":28,
+                "name":"8.0% MwSt."
+             },
+             "articleType":{
+                "id":1,
+                "name":"Standard"
+             },
+             "superGroup":{
+                "id":3,
+                "name":"HPT BIER"
+             },
+             "bonPrinters":[
+                {
+                   "id":9,
+                   "name":"Drucker Rechnung & Buffet"
+                }
+             ]
+          },
+          {
+             "name":"HPT DIVERS",
+             "shortName":"HPT DIVERS",
+             "fixedAt":false,
+             "discountable":true,
+             "applyColorToArticles":false,
+             "applyImageToArticles":false,
+             "beverageTax":0,
+             "id":7,
+             "internalVat":{
+                "id":101,
+                "name":"3.8% MwSt."
+             },
+             "externalVat":{
+                "id":101,
+                "name":"3.8% MwSt."
+             },
+             "articleType":{
+                "id":1,
+                "name":"Standard"
+             },
+             "superGroup":{
+                "id":7,
+                "name":"HPT DIVERS"
+             },
+             "bonPrinters":[
+                {
+                   "id":9,
+                   "name":"Drucker Rechnung & Buffet"
+                }
+             ]
+          },
+          {
+             "name":"HPT GUTSCHEIN VERKAUF",
+             "shortName":"HPT GUTSCHEIN VERk",
+             "fixedAt":false,
+             "discountable":true,
+             "applyColorToArticles":false,
+             "applyImageToArticles":false,
+             "beverageTax":0,
+             "id":8,
+             "internalVat":{
+                "id":102,
+                "name":"0.0 MwSt"
+             },
+             "externalVat":{
+                "id":102,
+                "name":"0.0 MwSt"
+             },
+             "superGroup":{
+                "id":8,
+                "name":"HPT GUTSCHEIN VERKAUF"
+             },
+             "bonPrinters":[
+ 
+             ]
+          },
+          {
+             "name":"HPT KAFFEE/THE",
+             "shortName":"HPT KAFFEE/THE",
+             "fixedAt":false,
+             "discountable":true,
+             "applyColorToArticles":false,
+             "applyImageToArticles":false,
+             "beverageTax":0,
+             "id":6,
+             "internalVat":{
+                "id":28,
+                "name":"8.0% MwSt."
+             },
+             "externalVat":{
+                "id":29,
+                "name":"2.5% MwSt."
+             },
+             "articleType":{
+                "id":1,
+                "name":"Standard"
+             },
+             "superGroup":{
+                "id":6,
+                "name":"HPT KAFFEE/THE"
+             },
+             "bonPrinters":[
+                {
+                   "id":9,
+                   "name":"Drucker Rechnung & Buffet"
+                }
+             ]
+          },
+          {
+             "name":"HPT KÜCHE",
+             "shortName":"HPT KÜCHE",
+             "fixedAt":false,
+             "discountable":true,
+             "applyColorToArticles":false,
+             "applyImageToArticles":false,
+             "beverageTax":0,
+             "id":1,
+             "internalVat":{
+                "id":28,
+                "name":"8.0% MwSt."
+             },
+             "externalVat":{
+                "id":29,
+                "name":"2.5% MwSt."
+             },
+             "articleType":{
+                "id":1,
+                "name":"Standard"
+             },
+             "superGroup":{
+                "id":1,
+                "name":"HPT KÜCHE"
+             },
+             "bonPrinters":[
+                {
+                   "id":9,
+                   "name":"Drucker Rechnung & Buffet"
+                }
+             ]
+          },
+          {
+             "name":"HPT MINERAL",
+             "shortName":"HPT MINERAL",
+             "fixedAt":false,
+             "discountable":true,
+             "applyColorToArticles":false,
+             "applyImageToArticles":false,
+             "beverageTax":0,
+             "id":2,
+             "internalVat":{
+                "id":28,
+                "name":"8.0% MwSt."
+             },
+             "externalVat":{
+                "id":29,
+                "name":"2.5% MwSt."
+             },
+             "articleType":{
+                "id":1,
+                "name":"Standard"
+             },
+             "superGroup":{
+                "id":2,
+                "name":"HPT MINERAL"
+             },
+             "bonPrinters":[
+                {
+                   "id":9,
+                   "name":"Drucker Rechnung & Buffet"
+                }
+             ]
+          },
+          {
+             "name":"HPT SPIRITUOSEN",
+             "shortName":"HPT SPIRITUOSEN",
+             "fixedAt":false,
+             "discountable":true,
+             "applyColorToArticles":false,
+             "applyImageToArticles":false,
+             "beverageTax":0,
+             "id":5,
+             "internalVat":{
+                "id":28,
+                "name":"8.0% MwSt."
+             },
+             "externalVat":{
+                "id":28,
+                "name":"8.0% MwSt."
+             },
+             "articleType":{
+                "id":1,
+                "name":"Standard"
+             },
+             "superGroup":{
+                "id":5,
+                "name":"HPT SPIRITUOSEN"
+             },
+             "bonPrinters":[
+                {
+                   "id":9,
+                   "name":"Drucker Rechnung & Buffet"
+                }
+             ]
+          },
+          {
+             "name":"HPT WARENAUFWAND",
+             "shortName":"HPT WARENAUFWAND",
+             "fixedAt":false,
+             "discountable":true,
+             "applyColorToArticles":false,
+             "applyImageToArticles":false,
+             "beverageTax":0,
+             "id":9,
+             "internalVat":{
+                "id":102,
+                "name":"0.0 MwSt"
+             },
+             "externalVat":{
+                "id":102,
+                "name":"0.0 MwSt"
+             },
+             "superGroup":{
+                "id":9,
+                "name":"HPT WARENAUFWAND"
+             },
+             "bonPrinters":[
+                {
+                   "id":9,
+                   "name":"Drucker Rechnung & Buffet"
+                }
+             ]
+          },
+          {
+             "name":"HPT WEIN",
+             "shortName":"HPT WEIN",
+             "fixedAt":false,
+             "discountable":true,
+             "applyColorToArticles":false,
+             "applyImageToArticles":false,
+             "beverageTax":0,
+             "id":4,
+             "internalVat":{
+                "id":28,
+                "name":"8.0% MwSt."
+             },
+             "externalVat":{
+                "id":28,
+                "name":"8.0% MwSt."
+             },
+             "articleType":{
+                "id":1,
+                "name":"Standard"
+             },
+             "superGroup":{
+                "id":4,
+                "name":"HPT WEIN"
+             },
+             "bonPrinters":[
+                {
+                   "id":9,
+                   "name":"Drucker Rechnung & Buffet"
+                }
+             ]
+          }
+       ]
+    },
+    "articles":{
+       "articles":[
+          {
+             "id":402,
+             "name":"Gnocchi alla Firentina",
+             "shortName":"Pasta Gnocchi",
+             "price":7.5,
+             "measures":1,
+             "active":true,
+             "fixedName":true,
+             "fixedPrice":true,
+             "description":"<b>Nährwerte:</b><br />\n  8% Eiweiss<br />\n14% Kohlenhyd. <br />\n163 kcal<br />\n<p></p>\n<b>Allergene:</b><br />\nEnthält Gluten<br />\nFrei von Lactose<br />\nFrei von Erdnüssen<br />\nFrei von Sellerie<br />\nFrei von Senf<br />\nFrei von Weizen\n\n<img src=\"https://www.bettybossi.ch/static/rezepte/x/bb_itku120801_0032a_x.jpg\" />",
+             "colorCode":"#d47e06",
+             "barCodes":[
+ 
+             ],
+             "articleGroup":{
+                "id":109,
+                "name":"Hauptgerichte"
+             },
+             "articleType":{
+                "id":1,
+                "name":"Standard"
+             },
+             "modified":"2019-03-05T14:24:42.635+0000",
+             "article2PriceLevels":[
+                {
+                   "priceLevel":{
+                      "id":1,
+                      "name":"test"
+                   },
+                   "price":0
+                }
+             ],
+             "constraints":[
+ 
+             ]
+          },
+          {
+             "id":403,
+             "name":"Pasta Pesto",
+             "shortName":"Pasta Pesto",
+             "price":8.5,
+             "measures":1,
+             "active":true,
+             "fixedName":true,
+             "fixedPrice":true,
+             "description":"<b>Nährwerte:</b><br />\n10% Eiweiss<br />\n74% Kohlenhyd.<br />\n516 kcal<br />\n\n<b>Allergene:</b><br />\nSpuren von Erdnüssen<br />\nSpuren von Lactose<br />\nFrei von Gluten<br />\nFrei von Sellerie<br />\nFrei von Senf<br />\nFrei von Weizen<br />\n<p></p>\n<b>Weinempfehlung:</b>\nSassicaia, reift in der Barrique.....<br />\nDuftnoten: schwarzen Beeren, Rauch und <br />Eukalyptus. <br />\n<p></p>\nEin beeindruckender Balanceakt von Kraft und <br />Eleganz – schlicht eine Klasse für sich...!\n\n<img src=\"https://nadialim.com/wp-content/uploads/2017/06/pestoPasta-555x463.jpg\" />",
+             "colorCode":"#d47e06",
+             "barCodes":[
+ 
+             ],
+             "articleGroup":{
+                "id":109,
+                "name":"Hauptgerichte"
+             },
+             "articleType":{
+                "id":1,
+                "name":"Standard"
+             },
+             "modified":"2019-07-04T12:49:45.783+0000",
+             "article2PriceLevels":[
+                {
+                   "priceLevel":{
+                      "id":1,
+                      "name":"test"
+                   },
+                   "price":0
+                }
+             ],
+             "constraints":[
+ 
+             ]
+          },
+          {
+             "id":404,
+             "name":"Pasta Calamari",
+             "shortName":"Pasta Calamari",
+             "price":9.5,
+             "measures":1,
+             "active":true,
+             "fixedName":true,
+             "fixedPrice":true,
+             "description":"<b>Nährwerte:</b>\n10% Eiweiss<br />\n74% Kohlenhyd.<br />\n516 kcal<br />\n<p></p>\n<b>Allergene:</b><br />\nSpuren von Erdnüssen<br />\nSpuren von Lactose<br />\nSpuren von Gluten<br />\nSpuren von Sellerie<br />\nFrei von Senf<br />\n\näusserst geschmackvoller mediterraner Teller\n<br />\n\n<img src=\"https://www.ilcuoreinpentola.it/wp-content/uploads/2015/06/pasta-con-i-calamari2.jpg\" />",
+             "colorCode":"#d47e06",
+             "barCodes":[
+ 
+             ],
+             "articleGroup":{
+                "id":109,
+                "name":"Hauptgerichte"
+             },
+             "articleType":{
+                "id":1,
+                "name":"Standard"
+             },
+             "modified":"2019-06-12T14:35:06.751+0000",
+             "article2PriceLevels":[
+                {
+                   "priceLevel":{
+                      "id":1,
+                      "name":"test"
+                   },
+                   "price":0
+                }
+             ],
+             "constraints":[
+ 
+             ]
+          }
+       ]
+    }
+ }

@@ -1,0 +1,108 @@
+.spacerY5 {
+	display: block;
+	height: 5px;
+	width: 100%;
+}
+
+.spacerY10 {
+	display: block;
+	height: 10px;
+	width: 100%;
+}
+
+.spacerY15 {
+	display: block;
+	height: 15px;
+	width: 100%;
+}
+
+.spacerY20 {
+	display: block;
+	height: 20px;
+	width: 100%;
+}
+
+.spacerY25 {
+	display: block;
+	height: 25px;
+	width: 100%;
+}
+
+.spacerY50 {
+	display: block;
+	height: 50px;
+	width: 100%;
+}
+
+.spacerX15 {
+	display: inline-block;
+	height: 100%;
+	width: 15px;
+}
+
+.spacerX25 {
+	display: inline-block;
+	height: 100%;
+	width: 25px;
+}
+
+.spinner {
+	float: unset !important;
+}
+
+.hidden {
+	display: none;
+}
+
+.gf_border {
+	border-top: 41px solid #FC9616;
+	margin: 50px 0;
+	width: 99% !important;
+}
+
+.gf_logo {
+	display: inline-block;
+	vertical-align: middle;
+	width: 75px;
+	height: 75px;
+	background: center no-repeat;
+	background-size: cover;
+}
+
+.gf_title {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.gf_title h1, .gf_title h5 {
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0;
+}
+
+.notice {
+	padding: 15px !important;
+}
+
+.input, .button {
+	vertical-align: middle !important;;
+}
+
+.input.input-medium {
+	vertical-align: middle;
+	padding: 6px 15px;
+	width: 350px;
+}
+
+.alternate {
+	width: calc(100% - 50px) !important; 
+	padding: 15px;
+}
+
+.dataTables_wrapper {
+	width: 99% !important;
+}
+
+#wpfooter {
+	bottom: -100px;
+}

@@ -1,0 +1,95 @@
+.main-content-inner.col-sm-12.col-md-8.no-sidebar {
+    min-width: 350px;
+    width: 100%;
+}
+
+.vendomat_menucard {
+    position: relative;
+    background: #000 center repeat;
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/white_wall2.png");
+    /*background-image: url('<?php echo plugins_url( "assets/black_linen_v2.png", __FILE__ )  ?>');*/
+    background-color: #FFFFFF;
+    margin-left: 5px;
+    width: calc(100% - 10px);
+    color: #555555;
+    padding: 25px;
+    padding-bottom: 50px;
+    border: 1px solid #E2E2E2;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.25);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.25);
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.25);
+}
+
+.vendomat_menucard h1 {
+    /*font-family: 'Dancing Script', cursive;*/
+    font-family: initial;
+    font-weight: normal !important;
+    font-size: 3em;
+    color: #C1832C;
+}
+
+.vendomat_menucard h2 {
+    font-family: initial;
+    font-weight: normal !important;
+    font-size: 1.5em;
+    color: #C1832C
+}
+
+.vendomat_menucard h3 {
+    font-family: initial;
+}
+
+.vendomat_menucard h3 {
+    font-weight: bold !important;
+    font-size: 1.3em;
+    padding: 0;
+    margin: 0;
+    color: #555555;
+}
+
+.vendomat_menucard .item_container {
+}
+
+.vendomat_menucard .item_container .item {
+    font-family: initial;
+    background: #FFFAF0;
+    width: calc(50% - 10px);
+    vertical-align: top;
+    padding: 20px;
+    margin-bottom: 5px;
+    min-width: 300px;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.25);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.25);
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.25);
+}
+
+.vendomat_menucard .item_container .item .item_text {
+    display: inline-block;
+    width: calc(100% - 208px);
+    vertical-align: top;
+    margin-top: 20px;
+}
+
+.vendomat_menucard .item_container .item .item_text b {
+    color: #C1832C
+}
+
+.vendomat_menucard .item_container .item img {
+    float: right;
+    width: 200px
+}
+
+.vendomat_menucard .item_container .item .item_img {
+    display: inline-block;
+    width: 200px;
+    vertical-align: top;
+    margin-top: 20px;
+    text-align: right;
+}
+
+.vendomat_menucard .item_container .item .item_price {
+    width: 100%;
+    text-align: right;
+    margin-top: 15px;
+    border-top: 1px solid #C1832C;
+}
